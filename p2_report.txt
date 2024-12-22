@@ -1,0 +1,32 @@
+ET580 Project Documentation
+
+Instructions:
+A. Write the group number and full names of all active group members.
+B. Write the name of each file and who contributed.
+C. State ALL known problems or incomplete features of the project.
+D. In each .cpp file write a single line comment next to each function stating who contributed.
+-------------------------------------------------------------------------------------------
+
+A. Group Members:
+Ian Lin, Jake Nelson, Julio Paulino, Rafi Talkuder
+
+B. Files : Contributors
+1.Circle.cpp :Ian, Rafi, Julio, Jake
+2.Circle.h :Ian, Rafi, Julio
+3.DynamicArray.cpp :Ian, Rafi
+4.DynamicArray.h :Rafi
+5.Edge.cpp :Jake
+6.Edge.h :Jake
+7.Main.cpp :Ian, Julio, Jake
+8.Makefile :Ian
+9.Point.cpp :Ian
+10.Point.h :Ian
+11.Rectangle.cpp :Ian, Jake, Julio
+12.Rectangle.h :Ian, Julio
+13.Shape.cpp :Ian
+14.Shape.h :Ian, Julio
+15.Triangle.cpp :Ian, Julio, Jake
+16.Triangle.h :Ian, Julio
+
+C. Known Problems or Incomplete Code
+Not really a problem but the output dosnt look clean as it should be
