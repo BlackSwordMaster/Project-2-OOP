@@ -1,6 +1,8 @@
 #include <iostream>
 #include <fstream>//include this for file input/output - Ian
 #include <sstream>
+#include <vector>
+#include <limits>
 #include "Shape.h"
 #include "Triangle.h"
 #include "Rectangle.h"
